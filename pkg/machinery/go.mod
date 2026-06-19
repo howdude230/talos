@@ -33,7 +33,7 @@ require (
 	go.yaml.in/yaml/v4 v4.0.0-rc.5
 	golang.org/x/net v0.56.0
 	google.golang.org/genproto/googleapis/api v0.0.0-20260618152121-87f3d3e198d3
-	google.golang.org/genproto/googleapis/rpc v0.0.0-20260615183401-62b3387ff324
+	google.golang.org/genproto/googleapis/rpc v0.0.0-20260618152121-87f3d3e198d3
 	google.golang.org/grpc v1.81.1
 	google.golang.org/protobuf v1.36.12-0.20260120151049-f2248ac996af
 )
